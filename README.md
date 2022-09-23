@@ -39,7 +39,7 @@ The contract address should follow the checksum address format \(see next requir
       "name": "FrogSwap Token",
       "symbol": "FROG",
       "address": "0xE8C490ec5957E24E7541Fa0CB9eF2788A33Ce094",
-      "chainId": 420666,
+      "chainId": 420420,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/FrogSwap/frogamm-mainnet-tokenlist/main/assets/kekchain/0xE8C490ec5957E24E7541Fa0CB9eF2788A33Ce094/logo.png"
 },
